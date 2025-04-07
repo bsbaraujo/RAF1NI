@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RAF1NI - MARGINALMENTE EVOLUÍDO</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Bebas Neue', sans-serif;
+      background-color: #0d0d0d;
+      color: white;
+      overflow-x: hidden;
+    }
+    header {
+      text-align: center;
+      padding: 60px 20px 20px;
+    }
+    header h1 {
+      font-size: 3rem;
+      letter-spacing: 5px;
+    }
+    .impact {
+      text-align: center;
+      font-size: 2rem;
+      color: #ff0000;
+      margin: 40px 20px;
+    }
+    .banner {
+      width: 100%;
+      max-height: 600px;
+      object-fit: cover;
+    }
+    .manifesto {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: 0 auto;
+      font-size: 1.2rem;
+      line-height: 1.8;
+      color: #ccc;
+    }
+    .btn-shop {
+      display: block;
+      width: fit-content;
+      margin: 40px auto;
+      padding: 15px 30px;
+      background-color: #ff0000;
+      color: white;
+      font-size: 1.5rem;
+      text-decoration: none;
+      border-radius: 10px;
+      transition: 0.3s;
+    }
+    .btn-shop:hover {
+      background-color: #c40000;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>RAF1NI</h1>
+    <p class="impact">EVOLUA OU SEJA ENGOLIDO</p>
+  </header>
+  <img class="banner" src="https://raf1ni.lojavirtualnuvem.com.br/img/uploads/theme_configurator/raf1ni_banner.jpg" alt="Drop EVOLUINDO da RAF1NI" />
+  <section class="manifesto">
+    <p>
+      RAF1NI não é só roupa, é código de conduta. É o grito de quem veio da margem e decidiu evoluir sem se dobrar. É pixo que vira arte, é faca que corta o sistema com tubo de spray. É a fusão entre o caos e o despertar.
+    </p>
+    <p>
+      Esse drop é sobre resistência. Sobre vestir sua ideologia no peito e nas costas. Sobre não ser engolido. É pra quem entendeu que o mundo não vai esperar por você.
+    </p>
+  </section>
+  <a class="btn-shop" href="https://raf1ni.lojavirtualnuvem.com.br">COMPRAR AGORA</a>
+  <footer>
+    &copy; 2025 RAF1NI - Todos os direitos reservados.
+  </footer>
+</body>
+</html>
