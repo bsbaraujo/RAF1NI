@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #0f0f0f;
+  color: white;
+  text-align: center;
+}
+
+.hero {
+  padding: 60px 20px;
+}
+
+.hero h1 {
+  font-size: 4em;
+  letter-spacing: 0.1em;
+}
+
+.slogan {
+  font-size: 1.5em;
+  margin: 10px 0 30px;
+}
+
+.btn {
+  background: white;
+  color: black;
+  padding: 15px 30px;
+  font-size: 1em;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #ccc;
+}
+
+.video-container {
+  margin-top: 40px;
+}
+
+video {
+  width: 90%;
+  max-width: 600px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(255,255,255,0.2);
+}
+
+footer {
+  margin-top: 60px;
+  font-size: 0.9em;
+  color: #777;
+}
